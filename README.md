@@ -33,9 +33,9 @@ else{
     document.querySelector("h1").innerHTML ="Draw!!!!";
 }
 * player-1 wins
-![alttext]("./images/readme2.png)
+![alttext](./images/readme2.png)
 * player-2 wins
-![alttext]("./images/readme3.png)
+![alttext](./images/readme3.png)
 * draw
-![alttext]("./images/readme4.png)
+![alttext](./images/readme4.png)
 
